@@ -4,8 +4,11 @@
 
 ### Products
 
-Fetch data from https://dummyjson.com/products and show them in the homepage
+Fetch data from https://dummyjson.com/products and show them in the homepage.
 
 ### Search
 
-Create a search feature to display just what searched
+Create a search feature to display just what searched.
+
+APIs search example
+https://dummyjson.com/products/search?q=phone
