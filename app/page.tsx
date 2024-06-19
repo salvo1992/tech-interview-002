@@ -8,12 +8,9 @@ export default function Home() {
       </div>
       <div className="flex flex-col mt-12 items-center justify-center w-full max-w-5xl">
         <h1 className="text-4xl font-bold text-center">Welcome to Tech Interview</h1>
-        <button className="mt-8 px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-600">
-          Get started
-        </button>
-        <div id="result" className="mt-8 text-center">
+        <div className="mt-8 text-center">
           <p className="text-sm text-gray-600">
-            This is a simple example of a Next.js app. Click the button to see the magic!
+            Read the README.md and solve the challenges!
           </p>
           </div>
         </div>
